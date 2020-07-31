@@ -221,3 +221,8 @@ footer a {
 .text-right {
     text-align: right;
 }
+/* secondary hero page */
+.hero-secondary {
+    background-color: black;
+    color: red;
+}
